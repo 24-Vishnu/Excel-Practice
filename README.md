@@ -1,5 +1,3 @@
-# Excel Data Analytics Practice
-
 This repository contains my Excel practice work completed as part of my Data Analytics learning journey. The purpose of this repository is to build a strong foundation in Excel by working with datasets and applying commonly used analytical techniques.
 
 **Topics**
